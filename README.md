@@ -4,7 +4,7 @@
 
 <p>Projeto ultilizado nos cursos de lógica de programação da Alura</p>
 
-## :rocket: Tecnologia
+## :rocket: Tecnologias
 
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
